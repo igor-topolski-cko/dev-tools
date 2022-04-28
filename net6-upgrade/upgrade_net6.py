@@ -1,6 +1,5 @@
 import argparse
 import os
-from pyexpat import version_info
 import sys
 from urllib.request import urlopen
 import xml.etree.ElementTree as ET
